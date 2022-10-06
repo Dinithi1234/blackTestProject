@@ -1,15 +1,8 @@
-#hello program
+# hello program
 
 
-
-
-a="mango"
+a = "mango"
 print("     hello Black")
 
 
-
-
-num=1
-
-
-
+num = 1
