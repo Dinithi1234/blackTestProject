@@ -2,7 +2,7 @@
 
 
 
-
+a="mango"
 print("     hello Black")
 
 
